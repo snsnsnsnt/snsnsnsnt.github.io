@@ -1,0 +1,71 @@
+{
+  "owner": {
+    "name": "snsyt",
+    "description": "Validating since 2021",
+    "type": [
+      "validator"
+    ],
+    "identity": {
+      "ownership_disclosure_url": "",
+      "casper_association_kyc_url": "",
+      "casper_association_kyc_onchain": ""
+    },
+    "resources": {
+      "code_of_conduct_url": "",
+      "terms_of_service_url": "https://snsyt.com/tos",
+      "privacy_policy_url": "https://snsyt.com/privacy",
+      "other": [
+        {
+          "name": "snsyt",
+          "url": "https://snsyt.com/about"
+        }
+      ]
+    },
+    "affiliated_accounts": [
+      {
+        "public_key": "011691f57529dd47a82530ad9c4a60f5efd993dd3f3e582fd2f775fb1a79c6d955"
+      }
+    ],
+    "website": "https://snsyt.com",
+    "email": "hello@snsyt.com",
+    "branding": {
+      "logo": {
+        "png_256": "https://.png",
+        "png_1024": "",
+        "svg": ""
+      }
+    },
+    "location": {
+      "name": "EU",
+      "country": "RO",
+      "latitude": 0,
+      "longitude": 0
+    },
+    "social": {
+      "keybase": "",
+      "telegram": "",
+      "twitter": "",
+      "github": "",
+      "youtube": "",
+      "facebook": "",
+      "medium": "",
+      "reddit": "",
+      "wechat": ""
+    }
+  },
+  "nodes": [
+    {
+      "public_key": "011691f57529dd47a82530ad9c4a60f5efd993dd3f3e582fd2f775fb1a79c6d955",
+      "description": "Overspec hardware, full time monitoring",
+      "location": {
+        "name": "RO",
+        "country": "RO",
+        "latitude": 0,
+        "longitude": 0
+      },
+      "functionality": [
+        "validator"
+      ]
+    }
+  ]
+}
